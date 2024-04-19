@@ -1,0 +1,32 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 44px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+    font-weight: bold;
+    color:darkslategray;
+}
+
+#ingredient-steps {
+    font-size: 22px;
+    color: black:
+}
+
+
+/*li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    color: black;
+} */
+
