@@ -22,6 +22,14 @@ h2 {
     color: black:
 }
 
+button {
+    background-color: bisque;
+    border: 1px solid #333;
+    width: 250px;
+    height: 50px;
+    margin: 0px;
+}
+
 
 /*li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
